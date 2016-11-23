@@ -7,7 +7,7 @@ Database for Malaysian states and cities.
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'Malaysia'
+gem 'malaysia'
 ```
 
 And then execute:
@@ -19,7 +19,7 @@ $ bundle
 Or manually install
 
 ```
-$ gem install Malaysia
+$ gem install malaysia
 ```
 
 ##Usage
